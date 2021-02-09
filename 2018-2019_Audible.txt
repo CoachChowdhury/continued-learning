@@ -7,10 +7,10 @@
 	f.	Surviving Schizophrenia, Torrey
 	g.	The Courage to Heal, Bass, Davis
 	h.	An Unquiet Mind Jamison
-	2.	Social
+2.	Social
 	a.	Five love languages- chapman
 	b.	How to win friends & influence People Carnegie
-	3.	Personal Development
+3.	Personal Development
 	a.	Mastery. The Keys to … George Leonard
 4.	Entrepreneurship, Finance
 	a.	Shoe Dog Night
@@ -22,7 +22,7 @@
 	b.	Chinese
 		i.	The Art of War, Tzu
 		ii.	The Analects of Confucius
-		iii.Chuang Tsu, Feng
+		iii.	Chuang Tsu, Feng
 		iv.	Tao Te Ching, Mitchel
 6.	Religion
 	a.	Buddhism
