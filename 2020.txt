@@ -1,0 +1,71 @@
+1.	Automechanic
+	a.	2000 Accord manual
+		i.	https://owners.honda.com/vehicles/information/2000/Accord-Sedan/manuals 
+2.	Electrician
+	a.	Electronics for Dummies, 3rd Edition, Cathleen Shamieh
+		i.	https://www.wiley.com/en-us/Electronics+For+Dummies%2C+3rd+Edition-p-9781119675594
+	b.	Journey2Master, Dustin Selzer
+		i.	https://www.youtube.com/playlist?list=PL1FgYVNpT-lA-U1BR7GMzKjdg1HIbkzuf
+	c.	Residential Electricity 101, James Morelli 
+		i.	https://120v.blogspot.com/
+	d.	Electrician U, Dustin Selzer
+		i.	https://www.youtube.com/playlist?list=PLi5cPc3Yy11ANTvtolN3-Vaw7zOdORBT7
+	e.	The circuit detective, Laurence Dimock
+		i.	http://thecircuitdetective.com/sitemap.php
+3.	IT
+	a.	AWS Guru99
+	b.	Powershell lunches
+	c.	MS Server tutorialspoint
+	d.	Azure Microsoft Getting Started
+	e.	GCP getting started 
+	f.	AWS tutorialspoint
+	g.	Front end framework tutorialspoint
+	h.	DB tutorialspoint 
+4.	Mental
+	a.	Waking Up Sam Harris 
+		i.	https://wakingup.com/
+	b.	Peter Levine’s In An Unspoken Voice
+	c.	C2A Call to Action, Michael Burnoff
+		i.	https://michaelbernoff.com/welcometocall2action/
+	d.	Trauma skills summit 
+		i.	https://product.soundstrue.com/trauma-skills-summit/register/
+5.	Physical
+	a.	Moveu
+		i.	https://moveu.com/
+	b.	Technique Tuesday Jeff Nippard
+		i.	https://www.youtube.com/playlist?list=PLp4G6oBUcv8yGQifkb4p_ZOoACPnYslx9
+	c.	jeremy ethier BEST SCIENCE-BASED WORKOUT ROUTINES
+		i.	https://www.youtube.com/playlist?list=PLFBizIyYw93cVFuGOvHH-66LR5BaH3V1e 
+6.	Religion
+	a.	NIV Bible p295/1635: Prophecy Against the House of Eli
+		i.	On Hiatus
+7.	Manga
+	a.	Done
+		i.	Suicide island 
+		b.	ongoing
+		i.	Berserk ch. 361
+	c.	Dropped 
+		i.	Promised neverland
+		ii.	My hero academia 
+		iii.One piece
+		iv.	Beastars
+		v.	jujutsu kaisen
+		vi.	Dorohedoro 
+8.	Anime
+	a.	Ongoing
+		i.	Tower of god, S2
+		ii.	Dorohedoro, S2
+		iii.Hinamatsuri, S2 – consider manga
+	b.	Done 
+		i.	Rilakkuma and Kaoru, possible s2
+		ii.	Prison School, possible s2 – consider manga
+		iii.	Devilman crybaby
+	c.	Dropped
+		i.	Promised neverland
+		ii.	My hero academia
+		iii.Gintama 
+9.	Shows
+	a.	Ongoing
+		i.	Cobra kai, S3
+
+
