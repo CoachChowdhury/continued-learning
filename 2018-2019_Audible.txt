@@ -22,8 +22,6 @@
 	b.	Chinese
 		i.	The Art of War, Tzu
 		ii.	The Analects of Confucius
-		iii.	Chuang Tsu, Feng
-		iv.	Tao Te Ching, Mitchel
 6.	Religion
 	a.	Buddhism
 		i.	Dhamapada eknath
@@ -38,6 +36,9 @@
 	e.	Christianity
 		i.	NKJV Bible, Nelson Inc., Alexander, Allen…
 			1.	Went up to Part 4 ch243. Continued with NIV Bible PDF in 2020
+	f. 	Taoism
+		i. 	Tao Te Ching, Mitchel
+		ii.	Chuang Tsu, Feng
 7.	Fiction
 	a.	Harry Potter Series Rowling
 
